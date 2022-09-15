@@ -1,2 +1,5 @@
-# template-lab-sistemas-embebidos
-Template de lab
+# [Title of the lab practice]
+
+# Introduction
+
+# Details
