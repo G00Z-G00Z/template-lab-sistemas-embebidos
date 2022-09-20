@@ -8,5 +8,6 @@
 docs/*
 !docs/.gitkeep
 
-
+# Proteus files
+proteus/Project Backups
 !proteus/.gitkeep
