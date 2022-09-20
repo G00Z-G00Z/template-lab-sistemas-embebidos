@@ -8,3 +8,6 @@
 docs/*
 !docs/.gitkeep
 
+
+proteus/*
+!proteus/.gitkeep
