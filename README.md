@@ -10,6 +10,6 @@
 
 - Download **vscode**
 - Download the extension of **PlatformIO IDE** in vscode
-- Open the project
+- Open the project / clone repo
 
 
